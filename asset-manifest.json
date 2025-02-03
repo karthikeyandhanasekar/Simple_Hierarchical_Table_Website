@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Simple_Hierarchical_Table_Website/static/css/main.16d41b58.css",
+    "main.js": "/Simple_Hierarchical_Table_Website/static/js/main.73a98001.js",
+    "static/js/563.cbf0e92a.chunk.js": "/Simple_Hierarchical_Table_Website/static/js/563.cbf0e92a.chunk.js",
+    "index.html": "/Simple_Hierarchical_Table_Website/index.html",
+    "main.16d41b58.css.map": "/Simple_Hierarchical_Table_Website/static/css/main.16d41b58.css.map",
+    "main.73a98001.js.map": "/Simple_Hierarchical_Table_Website/static/js/main.73a98001.js.map",
+    "563.cbf0e92a.chunk.js.map": "/Simple_Hierarchical_Table_Website/static/js/563.cbf0e92a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16d41b58.css",
+    "static/js/main.73a98001.js"
+  ]
+}
